@@ -17,6 +17,10 @@
 * {
   scroll-behavior: smooth;
 }
+/* body{
+  max-width: 1500px;
+  margin: 0 auto;
+} */
 
 .text-gradient {
   background: radial-gradient(
